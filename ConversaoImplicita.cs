@@ -11,7 +11,7 @@ namespace Conversao
         public static void Main(string[] args)
         {
             int myInt = 9;
-            double myDouble = myInt;     // Conversão automática: int para double
+            double myDouble = myInt; // Conversão automática: int para double
 
             Console.WriteLine(myInt);       // Saída 9
             Console.WriteLine(myDouble);    // Saída 9
